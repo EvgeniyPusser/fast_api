@@ -10,5 +10,5 @@ if __name__ == "__main__":
         port=8000,
         reload=False,
         log_level="debug",
-        workers=4,
+        workers=1,
     )
